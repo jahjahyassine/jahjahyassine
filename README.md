@@ -134,28 +134,6 @@
 
 <div align="center">
 
-## ⬛ Environment
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Category | Tools |
-|:---:|:---|
-| **OS** | Arch Linux |
-| **Editor** | VS Code · Neovim |
-| **Terminal** | Bash · Zsh |
-| **Version Control** | Git · GitHub |
-| **AI / ML** | Anthropic API · Ollama · Jupyter · Python |
-| **Backend** | Node.js · FastAPI · PHP · REST |
-| **Frontend** | React · Next.js · TailwindCSS · TypeScript |
-| **Data** | PostgreSQL · MySQL |
-| **DevOps** | Docker · GitHub Actions |
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
