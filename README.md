@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&fontColor=c9d1d9&fontSize=0" width="100%"/>
 
-# YSN
+# YASSINE JAHJAH
 
 **Full stack developer. Building toward AI engineering.**
 
