@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Yassine%20Jahjah&fontColor=c9d1d9&fontSize=36&fontAlignY=55&desc=YSN%20·%20Full%20Stack%20Developer%20→%20AI%20Engineer&descAlignY=75&descSize=14&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:0d1520,100:0d1117&height=160&section=header&text=Yassine%20Jahjah&fontColor=c9d1d9&fontSize=40&fontAlignY=50&animation=fadeIn&stroke=161b22&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+→+AI+Engineer;Building+tools+that+are+actually+useful.;Arch+Linux+·+Python+·+TypeScript+·+LangChain;Writing+software.+Learning+systems.+Shipping+work." alt="Typing SVG"/>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jahjahyassine&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)](https://github.com/jahjahyassine)
 [![GitHub](https://img.shields.io/badge/GitHub-jahjahyassine-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/jahjahyassine)
-
-<br/>
-
-> Writing software across the stack.<br/>
-> Focused on learning AI systems deeply — building tools that are actually useful.
 
 <br/>
 
@@ -35,7 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![JAVA](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=javal&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 <br/>
@@ -43,11 +42,9 @@
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![LARAVEL](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 <br/>
 
