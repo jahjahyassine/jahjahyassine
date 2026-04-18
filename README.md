@@ -1,292 +1,298 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&fontColor=c9d1d9&fontSize=0" width="100%"/>
-
-
-# YSN
-
-
-**Full stack developer. Building toward AI engineering.**
-
-
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║              T H E   V O I D   S E C T               ║
+  ╚══════════════════════════════════════════════════════╝
+```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jahjahyassine&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)](https://github.com/jahjahyassine)
+# USERNAME
 
-[![GitHub](https://img.shields.io/badge/GitHub-jahjahyassine-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/jahjahyassine)
-
-
-<br/>
-
-
-> Writing software across the stack. Focused on learning AI systems deeply and building tools that are actually useful.
-
-
-</div>
-
+<p>
+  <em>Engineer of silent systems · Practitioner of deep architecture · Forger of tools that endure</em>
+</p>
 
 <br/>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br/>
-
-
-<div align="center">
-
-
-## ⬛ Stack
-
-
-<br/>
-
-
-**Languages**
-
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-
-![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=java&logoColor=ED8B00)
-
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-
-<br/>
-
-
-**Frameworks**
-
-
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-
-
-<br/>
-
-
-**AI / ML Libraries**
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-
-<br/>
-
-
-**Infrastructure & Tools**
-
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-
-</div>
-
-
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br/>
-
-
-<div align="center">
-
-
-## ⬛ Selected Work
-
-
-</div>
-
-
-<br/>
-
-
-<div align="center">
-
-
-| Project | Description | Repo |
-
-|:---|:---|:---:|
-
-| **DSA-Visualizer** | Interactive visualizer for data structures and algorithms. Step through Python code and watch linked lists, trees, heaps, and the call stack update in real time. Built with TypeScript. | [→](https://github.com/jahjahyassine/DSA-Visualizer) |
-
-| **ChatBot** | Conversational interface project. Custom-styled chat UI with a focus on clean layout and responsive design. | [→](https://github.com/jahjahyassine/ChatBot) |
-
-| **Loan-Management** | Web application for managing loan records and tracking repayments. Built with PHP and a relational database backend. | [→](https://github.com/jahjahyassine/Loan-Management) |
-
-| **Python** | Collection of Python scripts, notebooks, and experiments covering algorithms, data processing, and early AI/ML exploration. | [→](https://github.com/jahjahyassine/Python) |
-
-
-</div>
-
-
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br/>
-
-
-<div align="center">
-
-
-## ⬛ GitHub Stats
-
-
-<br/>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahjahyassine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&custom_title=GitHub+Stats&include_all_commits=true&count_private=true"/>
-
+[![Visits](https://komarev.com/ghpvc/?username=USERNAME&color=1a1a2e&style=flat-square&label=Observers)](https://github.com/USERNAME)
 &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-0d1117?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/USERNAME)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjahyassine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&custom_title=Top+Languages"/>
+<br/>
 
+---
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CULTIVATION PATH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 Cultivation Path 〕
+
+<sub>The disciplines refined through years of practice.</sub>
+
+</div>
+
+<br/>
+
+**Core Meridians — Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE412B)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+<br/>
+
+**Refined Techniques — Frameworks & Runtimes**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+<br/>
+
+**Foundation Stones — Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+<br/>
+
+<div align="center"><sub>─────────────────────────────────────────────────────────</sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    INNER TECHNIQUES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 Inner Techniques 〕
+
+<sub>Select works forged in silence.</sub>
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬡ &nbsp;Project Sigma</h3>
+      <p>
+        An autonomous reasoning pipeline built on LangChain and Gemini.<br/>
+        Processes structured data streams, generates analytical reports,<br/>
+        and delivers outputs via integrated delivery systems.
+      </p>
+      <p>
+        <a href="https://github.com/USERNAME/project-sigma">
+          <img src="https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=c9d1d9"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ &nbsp;Project Kaze</h3>
+      <p>
+        A real-time edge inference system for assistive vision.<br/>
+        Combines object detection, spatial audio feedback, and<br/>
+        a cloud fallback layer for complex scene interpretation.
+      </p>
+      <p>
+        <a href="https://github.com/USERNAME/project-kaze">
+          <img src="https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=c9d1d9"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬡ &nbsp;Project Obsidian</h3>
+      <p>
+        A full-stack commerce platform engineered for performance<br/>
+        and aesthetic precision. Built on React/Vite with a modular<br/>
+        admin architecture and editorial-grade design language.
+      </p>
+      <p>
+        <a href="https://github.com/USERNAME/project-obsidian">
+          <img src="https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=c9d1d9"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ &nbsp;Project Meridian</h3>
+      <p>
+        A medical imaging analysis pipeline leveraging MONAI and<br/>
+        Grad-CAM visualization. Produces structured diagnostic<br/>
+        reports with automated delivery via SMTP integration.
+      </p>
+      <p>
+        <a href="https://github.com/USERNAME/project-meridian">
+          <img src="https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=c9d1d9"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center"><sub>─────────────────────────────────────────────────────────</sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    MARTIAL RECORDS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 Martial Records 〕
+
+<sub>A chronicle of accumulated output. Measured in commits, not words.</sub>
+
+<br/>
+
+<a href="https://github.com/USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Accumulated+Qi" />
+</a>
+
+<a href="https://github.com/USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&langs_count=7&custom_title=Dominant+Disciplines" />
+</a>
 
 <br/><br/>
 
+<a href="https://github.com/USERNAME">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=jahjahyassine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution Streak"/>
+</div>
 
+<br/>
+
+<div align="center"><sub>─────────────────────────────────────────────────────────</sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ARTIFACTS & TOOLS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 Artifacts &amp; Tools 〕
+
+<sub>The instruments of the craft. Chosen deliberately.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Stack |
+|:---|:---|
+| **Environments** | Arch Linux · NeoVim · Tmux · Zsh |
+| **Version Control** | Git · GitHub · Conventional Commits |
+| **AI / ML** | PyTorch · MONAI · YOLOv8 · LangChain · OpenAI API · Gemini |
+| **Frontend** | React · Vite · Tailwind CSS · Framer Motion |
+| **Backend** | FastAPI · Node.js · Express · PostgreSQL · Redis |
+| **DevOps** | Docker · GitHub Actions · Nginx · SSH |
+| **Design** | Figma · SVG · CSS Custom Properties |
+| **Scripting** | Python · Bash · Node scripts |
+
+</div>
+
+<br/>
+
+<div align="center"><sub>─────────────────────────────────────────────────────────</sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SECT AFFILIATIONS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 Sect Affiliations 〕
+
+<sub>Domains of deep interest beyond pure engineering.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+  Assistive Technology  ·  Medical AI  ·  Generative Systems
+  Islamic Geometric Design  ·  Algorithmic Trading  ·  Systems Architecture
+  Open Source Tooling  ·  Edge Computing  ·  Arabic Typography
+```
+
+</div>
+
+<br/>
+
+<div align="center"><sub>─────────────────────────────────────────────────────────</sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Contact-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label="/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label="/>
+</a>
+&nbsp;
+<a href="https://USERNAME.dev">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=8b949e&label="/>
+</a>
 
 <br/><br/>
 
+```
+  The path of ten thousand commits begins with a single push.
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahjahyassine&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=Contribution+Activity" width="95%"/>
+<br/>
 
+<sub><sup>Last forged: automatically via GitHub · Profile README v1.0</sup></sub>
+
+<br/>
 
 </div>
-
-
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br/>
-
-
-<div align="center">
-
-
-<div align="center">
-
-
-## ⬛ Focus Areas
-
-
-<br/>
-
-
-</div>
-
-
-```
-
-  Full stack development        →   Building complete web products from the database layer to the UI.
-
-  AI engineering                →   Learning how to design, integrate, and ship AI-powered systems.
-
-  Developer tooling             →   Building tools that help engineers understand and move faster.
-
-  Algorithms & data structures  →   Studying fundamentals and building systems to make them visible.
-
-  Open source                   →   Writing code that others can read, learn from, and contribute to.
-
-```
-
-
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br/>
-
-
-<div align="center">
-
-
-## ⬛ Contact
-
-
-<br/>
-
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jahjah.yassine@ensam-casa.ma)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jahjahyassine)
-
-```[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c9d1d9)](https://your-portfolio.dev)```
-
-
-<br/>
-
-
-```
-
-Keep building. The gap closes through work, not intention.
-
-```
-
-
-<br/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
-
-
-</div>
-
-
-
