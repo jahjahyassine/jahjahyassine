@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:0d1520,100:0d1117&height=160&section=header&text=Yassine%20Jahjah&fontColor=c9d1d9&fontSize=40&fontAlignY=50&animation=fadeIn&stroke=161b22&strokeWidth=1" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+→+AI+Engineer;Building+tools+that+are+actually+useful.;Arch+Linux+·+Python+·+TypeScript+·+LangChain;Writing+software.+Learning+systems.+Shipping+work." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Yassine%20Jahjah&fontColor=c9d1d9&fontSize=36&fontAlignY=55&animation=fadeIn&desc=YSN%20·%20Full%20Stack%20Developer%20→%20AI%20Engineer&descAlignY=75&descSize=14&descColor=8b949e" width="100%"/>
 
 <br/>
 
