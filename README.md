@@ -117,45 +117,7 @@ I enjoy turning ideas into **real, scalable software** — from database archite
 </div>
 
 
-<div align="center">
 
-## ⬛ Tech Stack
-
-<br/>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,java,php,bash,sql" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite" />
-
-<br/><br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite,sqlalchemy,docker" />
-
-<br/><br/>
-
-### AI & Data
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/>
-
-`LangChain` · `RAG` · `LLMs` · `Embeddings` · `Vector Databases` · `Pandas` · `NumPy`
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,linux,arch" />
-
-</div>
 
 <br/>
 
