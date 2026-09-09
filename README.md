@@ -131,15 +131,24 @@ I enjoy turning ideas into **real, scalable software** — from database archite
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jahjahyassine&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&rank_icon=github" height="170"/>
+<table>
+<tr>
+<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjahyassine&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jahjahyassine&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjahyassine&layout=compact&hide_border=true&theme=github_dark" height="180"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
-
-<div align="center">
 
 ## ⬛ Connect
 
