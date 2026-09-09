@@ -143,11 +143,11 @@ I enjoy turning ideas into **real, scalable software** — from database archite
 
 ## ⬛ Connect
 
-<a href="https://linkedin.com/in/jahjahyassine">
+<a href="https://linkedin.com/in/yassine-jahjah">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:yassinejahjah.dev@gmail.com">
+<a href="mailto:yassine.jahjah1@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
