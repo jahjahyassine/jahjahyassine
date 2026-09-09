@@ -150,14 +150,21 @@ I enjoy turning ideas into **real, scalable software** — from database archite
 
 <div align="center">
 
-⬛ Connect
+## ⬛ Connect
 
-<a href="https://linkedin.com/in/yassine-jahjah"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a>
+<br/>
 
-<a href="mailto:yassine.jahjah1@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+<a href="https://github.com/jahjahyassine">
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yassine-jahjah">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:yassine.jahjah1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
 </div>
+
