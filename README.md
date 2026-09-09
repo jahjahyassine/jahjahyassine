@@ -131,25 +131,24 @@ I enjoy turning ideas into **real, scalable software** — from database archite
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
+<a href="https://github.com/jahjahyassine">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jahjahyassine&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahjahyassine&theme=github-dark-blue&hide_border=true"/>
 
-</td>
+</a>
 
-<td align="center">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjahyassine&layout=compact&hide_border=true&theme=github_dark" height="180"/>
+<a href="https://github.com/jahjahyassine?tab=repositories">
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9"/>
+
+</a>
 
 </div>
 
 
+<div align="center">
 ## ⬛ Connect
 
 <a href="https://linkedin.com/in/yassine-jahjah">
