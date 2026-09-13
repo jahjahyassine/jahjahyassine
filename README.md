@@ -7,16 +7,19 @@
 <a href="https://github.com/jahjahyassine">
   <img src="https://img.shields.io/badge/GitHub-jahjahyassine-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9"/>
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/jahjahyassine">
+<a href="https://linkedin.com/in/yassine-jahjah">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;
-<a href="mailto:yassinejahjah.dev@gmail.com">
+<a href="mailto:yassine.jahjah1@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jahjahyassine&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
+
 </div>
+
 
 
 <br/>
